@@ -147,7 +147,7 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Tharun 👑
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Tharun_007
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Tharun_007'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 Join :  <a href="https://t.me/+kzePEdUA_ANjYzZk">All Movies</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
