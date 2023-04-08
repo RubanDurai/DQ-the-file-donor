@@ -193,10 +193,6 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Join :  <a href="https://t.me/+kzePEdUA_ANjYzZk">All Movies</a>
-╰─────── • ◆ • ───────╯
-
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : https://t.me/Tharun_007
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+BZUeX4JimkM3NjI1
